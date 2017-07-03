@@ -526,7 +526,7 @@
       ]
     },
     {
-      "name": "EVFConnector",
+      "name": "oeConnector",
       "superClass": [
         "Element"
       ],
