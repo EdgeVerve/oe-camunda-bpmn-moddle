@@ -2,6 +2,8 @@
   "name": "Camunda",
   "uri": "http://camunda.org/schema/1.0/bpmn",
   "prefix": "camunda",
+  "modified_by":"arul_ranjith(ActiveXJ)",
+  "modification_note":"added oe components for modals",
   "xml": {
     "tagAlias": "lowerCase"
   },
