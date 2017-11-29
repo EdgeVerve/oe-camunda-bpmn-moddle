@@ -312,6 +312,11 @@
           "name": "priority",
           "isAttr": true,
           "type": "String"
+        },
+        {
+          "name": "taskCategory",
+          "isAttr": true,
+          "type": "String"
         }
       ]
     },
