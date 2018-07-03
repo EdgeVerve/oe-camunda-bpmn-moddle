@@ -551,6 +551,10 @@
           "type": "String"
         },
         {
+          "name": "args",
+          "type": "String"
+        },
+        {
           "name": "data",
           "type": "String"
         },
