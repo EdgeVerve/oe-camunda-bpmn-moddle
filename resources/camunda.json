@@ -317,6 +317,16 @@
           "name": "taskCategory",
           "isAttr": true,
           "type": "String"
+        },
+        {
+          "name": "preCreateFunction",
+          "isAttr": true,
+          "type": "String"
+        },
+        {
+            "name": "preCompleteFunction",
+            "isAttr": true,
+            "type": "String"
         }
       ]
     },
