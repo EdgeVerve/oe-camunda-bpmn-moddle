@@ -319,12 +319,12 @@
           "type": "String"
         },
         {
-          "name": "preCreateFunction",
+          "name": "creationHook",
           "isAttr": true,
           "type": "String"
         },
         {
-            "name": "preCompleteFunction",
+            "name": "completionHook",
             "isAttr": true,
             "type": "String"
         }
