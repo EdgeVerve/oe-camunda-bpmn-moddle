@@ -312,6 +312,11 @@
           "name": "priority",
           "isAttr": true,
           "type": "String"
+        },
+        {
+          "name": "taskCategory",
+          "isAttr": true,
+          "type": "String"
         }
       ]
     },
@@ -543,6 +548,10 @@
         },
         {
           "name": "method",
+          "type": "String"
+        },
+        {
+          "name": "args",
           "type": "String"
         },
         {

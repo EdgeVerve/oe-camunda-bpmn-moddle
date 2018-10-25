@@ -1,3 +1,6 @@
+# oe-camunda-bpmn-moddle
+This project is a fork of [camunda-bpmn-moddle](https://github.com/camunda/camunda-bpmn-moddle) with additional oeCloud components.
+
 # camunda-bpmn-moddle
 
 [![Build Status](https://travis-ci.org/camunda/camunda-bpmn-moddle.svg)](https://travis-ci.org/camunda/camunda-bpmn-moddle)
