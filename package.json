@@ -1,6 +1,6 @@
 {
   "name": "oe-camunda-bpmn-moddle",
-  "version": "1.6.0",
+  "version": "1.8.0",
   "description": "Cammunda BPMN moddle with oeCloud's components",
   "main": "index.js",
   "directories": {
