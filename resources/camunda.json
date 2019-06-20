@@ -317,6 +317,16 @@
           "name": "taskCategory",
           "isAttr": true,
           "type": "String"
+        },
+        {
+          "name": "creationHook",
+          "isAttr": true,
+          "type": "String"
+        },
+        {
+            "name": "completionHook",
+            "isAttr": true,
+            "type": "String"
         }
       ]
     },
